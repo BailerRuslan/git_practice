@@ -28,24 +28,6 @@ This repository is dedicated to my journey in mastering **Git** and **GitHub**. 
 
 ## 📬 Contact
 
-
-
 If you have any questions or suggestions, feel free to reach out to me via ruslantolebay@gmail.com.
 
----
-
-> **Note**: This repository will be regularly updated as new tasks and projects are completed.
-=======
-If you have any questions or suggestions, feel free to reach out to me via ruslantolebay@gmail.com .
-
----
-
-> **Note**: This repository will be regularly updated with new exercises and learning materials as I progress in mastering Git and GitHub.
->>>>>>> 64889fe (readme updated)
-=======
-If you have any questions or suggestions, feel free to reach out to me via ruslantolebay@gmail.com .
-
----
-
-> **Note**: This repository will be regularly updated with new exercises and learning materials as I progress in mastering Git and GitHub.
->>>>>>> 64889fe (readme updated)
+**Note**: This repository will be regularly updated as new tasks and projects are completed.
