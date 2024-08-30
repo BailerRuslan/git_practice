@@ -26,7 +26,7 @@ The following technologies are used during the learning process:
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to reach out to me via [your email or other contact details].
+If you have any questions or suggestions, feel free to reach out to me via ruslantolebay@gmail.com.
 
 ---
 
